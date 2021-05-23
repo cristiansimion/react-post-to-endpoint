@@ -1,0 +1,41 @@
+form {
+    padding: 20px;
+    border:1px solid #dedede;
+    background: #f7f7f7;
+    display:inline-block;
+    border-radius: 4px;
+    margin:0 auto;
+}
+form input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+}
+form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+input[type="submit"] {
+    background: #f00;
+    border: none;
+    color: #fff;
+    padding: 14px 40px;
+}
+.notification {
+    padding: 20px;
+    margin-bottom:20px;
+}
+.green {
+    background: #a1ca9c;
+    border: 1px solid #5ebf76;
+}
+.red {
+    background: #dc9090;
+    border: 1px solid #bb4b4e;
+}
+.App {
+    width: 100%;
+    text-align:center;
+}
